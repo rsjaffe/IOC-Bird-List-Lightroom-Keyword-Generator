@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!-- This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/. -->
+<?xml version="1.0" encoding="utf-8"?><!-- MIT License Copyright (c) 2020 Rory Jaffe. -->
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="text" encoding="utf-8" omit-xml-declaration="yes"/>
   <xsl:strip-space elements="*"/>
