@@ -39,7 +39,7 @@
 			Great Spotted Kiwi
 				{Apteryx haastii}
 	Casuariiformes
-		{Neognathae}
+		{Palaeognathae}
 		Cassowaries Emu
 			{Casuariidae}
 			Southern Cassowary

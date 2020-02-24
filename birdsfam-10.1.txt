@@ -41,7 +41,7 @@
 	Cassowaries Emu
 		{Casuariidae}
 		{Casuariiformes}
-		{Neognathae}
+		{Palaeognathae}
 		Southern Cassowary
 			{Casuarius casuarius}
 		Dwarf Cassowary
