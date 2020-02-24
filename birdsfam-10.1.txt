@@ -19,7 +19,7 @@
 	Rheas
 		{Rheidae}
 		{Rheiformes}
-		{Neognathae}
+		{Palaeognathae}
 		Greater Rhea
 			{Rhea americana}
 		Lesser Rhea
@@ -27,7 +27,7 @@
 	Kiwis
 		{Apterygidae}
 		{Apterygiformes}
-		{Neognathae}
+		{Palaeognathae}
 		Southern Brown Kiwi
 			{Apteryx australis}
 		North Island Brown Kiwi
