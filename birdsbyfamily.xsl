@@ -18,7 +18,7 @@
       <xsl:value-of select="substring(../latin_name,1,1)"/>
       <xsl:value-of select="lower-case(substring(../latin_name,2))"/>
       <xsl:text>}&#x0D;&#x0A;</xsl:text>
-      <xsl:value-of select="if(matches(../latin_name,'^Struthioniformes|^Tinamiformes','i'))  then '&#9;&#9;{Palaeognathae}&#x0D;&#x0A;' else '&#9;&#9;{Neognathae}&#x0D;&#x0A;'" />
+      <xsl:value-of select="if(matches(../latin_name,'^Apterygiformes|^Casuariformes|^Rheiformes|^Struthioniformes|^Tinamiformes','i'))  then '&#9;&#9;{Palaeognathae}&#x0D;&#x0A;' else '&#9;&#9;{Neognathae}&#x0D;&#x0A;'" />
       <xsl:for-each select="genus">
         <xsl:for-each select="species">
           <xsl:text>&#9;&#9;</xsl:text>
